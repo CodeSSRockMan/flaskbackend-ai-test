@@ -1,6 +1,7 @@
 # Virtual environment
 __pycache__/
 *.pyc
+.venv/
 
 # System-specific files
 .DS_Store
